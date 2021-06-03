@@ -15,7 +15,8 @@
     "publication": "",
 	"other": [
 	  "[Manuscript](../research/reif.wp.healthrisk.pdf)",
+	  "[Data and code](../research/reif.wp.healthrisk.replication.zip)"
 	],	
-	"abstract": "We develop a stochastic life-cycle framework for valuing health and longevity improvements and apply it to data on mortality, quality of life, and medical spending for adults with different comorbidities. People in the sickest health state are willing to pay 2.4 times more per quality-adjusted life-year (QALY) than healthy people. Among the healthy, prevention of serious health risks is worth 16% more per QALY than prevention of mild risks. Our results help explain why people oppose the use of a single threshold value for rationing care and why people invest less in prevention than in treatment."
+	"abstract": "We develop a stochastic life-cycle framework for valuing health and longevity improvements and apply it to data on mortality, quality of life, and medical spending for adults with different comorbidities. People in the sickest health state are willing to pay 2.4 times more per quality-adjusted life-year (QALY) than healthy people. Even among the healthy, prevention of serious health risks is worth 16% more per QALY than prevention of mild risks. Our results help explain why people oppose the use of a single threshold value for rationing care and why people invest less in prevention than in treatment."
   }
 ]
