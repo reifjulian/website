@@ -418,9 +418,10 @@ isid r
 
 # Other helpful links
 
+[Asjad Naqvi's Stata-to-LaTeX guide](https://medium.com/the-stata-guide/the-stata-to-latex-guide-6e7ed5622856)
+
 [AEA Data Editor's guide](https://aeadataeditor.github.io/aea-de-guidance/)
 - Additional guidance at the [Social Science Data Editors site](https://social-science-data-editors.github.io/guidance/)
-
 
 [Dan Sullivan's best practices for coding](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 
