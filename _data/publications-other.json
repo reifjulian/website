@@ -1,4 +1,27 @@
 [
+
+  {
+    "title": "The hidden cost of Covid-19: years of life lost among the young",
+	"coauthors": "Darius Lakdawalla",
+	"publication": "*Stat News*, 14 October 2021",
+	"other": [
+	  "[Article](https://www.statnews.com/2021/10/14/years-of-life-lost-among-the-young-hidden-cost-covid-19/)",
+	  "[Manuscript](../research/reif.stat.2021.covid.pdf)",
+	],	
+	"abstract": "",	
+  },
+  
+  {
+    "title": "Transparency in an Era of Data-Driven Policy: The Importance of Reproducible Research",
+	"coauthors": "David Molitor",
+	"publication": "*IGPA Policy Spotlight*, 14 October 2021",
+	"other": [
+	  "[Article](https://igpa.uillinois.edu/report/transparency-era-data-driven-policy-importance-reproducible-research)",
+	  "[Manuscript](../research/reif.igpa.2021.reproducibility.pdf)",
+	],	
+	"abstract": "In this Policy Spotlight, we review the evidence on the reproducibility of published social science research and discuss how to improve the reproducibility of future studies. We also use one of our own published studies to demonstrate how researchers can facilitate reproducibility.",	
+  },  
+
   {
     "title": "Economic Policy in President Biden’s First 100 Days",
 	"coauthors": "Nolan Miller",
