@@ -133,7 +133,7 @@ The folder **results/** contains all final output, including tables and figures.
 
 ```text
 .
-└── analysis/
+├── analysis/
     ├── data/
     ├── processed/
     ├── results/
