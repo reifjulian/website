@@ -7,9 +7,10 @@
 	  "[AEA Research Highlight](https://www.aeaweb.org/research/teen-driving-mortality-risky-behavior)",
 	],	
 	"other": [
+	  "[Article](https://www.aeaweb.org/articles?id=10.1257/aeri.20200653)",	
 	  "[Manuscript](../research/reif.aeri.2021.driving.pdf)",
 	  "[Data and code](https://github.com/reifjulian/driving)"
-	],	
+	],
 	"abstract": "We investigate the effect of teenage driving on mortality and risky behaviors in the United States using a regression discontinuity design. We estimate that total mortality rises by 5.84 deaths per 100,000 (15%) at the minimum legal driving age cutoff, driven by an increase in motor vehicle fatalities of 4.92 deaths per 100,000 (44%). We also find that poisoning deaths, which are caused primarily by drug overdoses, rise by 0.31 deaths per 100,000 (29%) at the cutoff and that this effect is concentrated among females. Our findings show that teenage driving contributes to sex differences in risky drug use behaviors.",
   },
 
