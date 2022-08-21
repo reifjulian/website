@@ -14,5 +14,3 @@ Professor Reif is an applied microeconomist whose research focuses on the determ
 
 
 Professor Reif received his PhD in Economics from the University of Chicago and his BA from Vanderbilt University. Prior to pursuing his PhD, he worked as a Senior Consultant at Bates White.
-
-Professor Reif is on sabbatical at the Toulouse School of Economics for the 2021-2022 academic year.
