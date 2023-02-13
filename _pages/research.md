@@ -78,11 +78,12 @@ layout: splash
    
    "Habit Persistence in Health Behaviors: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>
    
+   "Access to Credit Reduces the Value of Health Insurance" (with Sonia Jaffe and Anup Malani)<br><br>
+   
    "Peer Effects in the Workplace: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>   
 
-   "Does Medicare Improve Quality of Life?"<br><br>
+   "Does Medicare Improve Quality of Life?"<br>
 
-   "Evasion or Stockpiling? The Effect of Anticipated Future Tax Changes on Gasoline Sales" (with Don Fullerton)<br>
   </div>
   
   
