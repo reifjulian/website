@@ -74,13 +74,13 @@ layout: splash
   </div>
   <div class="card-body">
 
-   "Pollution and Mortality in the United States: Evidence from 1972-1988" (with Tatyana Deryugina)<br><br>
+   "Inferring Long-run Survival Effects from Short-run Estimates: Application to Air Pollution" (with Tatyana Deryugina)<br><br>
    
    "Habit Persistence in Health Behaviors: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>
    
-   "Access to Credit Reduces the Value of Health Insurance" (with Sonia Jaffe and Anup Malani)<br><br>
-   
    "Peer Effects in the Workplace: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>   
+   
+   "Access to Credit Reduces the Value of Health Insurance" (with Sonia Jaffe and Anup Malani)<br><br>
 
    "Does Medicare Improve Quality of Life?"<br>
 
