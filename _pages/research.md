@@ -74,7 +74,7 @@ layout: splash
   </div>
   <div class="card-body">
 
-   "Inferring Long-run Survival Effects from Short-run Estimates: Application to Air Pollution" (with Tatyana Deryugina)<br><br>
+   "The Long-run Effect of Air Pollution on Survival" (with Tatyana Deryugina)<br><br>
    
    "Habit Persistence in Health Behaviors: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>
    
