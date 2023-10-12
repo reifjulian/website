@@ -1,7 +1,16 @@
 [
-
-  
   {
+    "title": "The Long-run Effect of Air Pollution on Survival",
+	"coauthors": "Tatyana Deryugina",
+    "publication": "",
+	"other": [
+	  "[Manuscript](../research/reif.wp.pollution.pdf)",
+	  "[Slides](../research/reif.wp.pollution.slides.pdf)"
+	],	
+	"abstract": "Many environmental hazards produce health effects that take years to arise, but quasi-experimental studies typically measure outcomes and treatment over short time periods. We develop a new approach to overcome this challenge and use it to gauge the effect of exposure to sulfur dioxide on US life expectancy. Using changes in wind direction as an instrument for daily air pollution levels, we first characterize the short-run mortality effects of acute exposure during the time period 1972-1988. Exposure causes two distinct mortality patterns: a short-run mortality displacement effect, and a persistent accelerated aging effect. We then incorporate our estimates into a flexible health production model to quantify the lifelong effects of chronic air pollution exposure for a cohort born in 1972. Model calculations of the effect of chronic exposure on life expectancy are 7-8 times larger than the effect implied by simple extrapolation of our short-run empirical estimates. Ninety percent of the survival benefits accrue after the first fifty years of life, implying that most of the 1970 Clean Air Act's health benefits have yet to emerge for cohorts born after its passage."
+  },
+  
+    {
     "title": "Health Risk and the Value of Life",
 	"coauthors": "Daniel Bauer and Darius Lakdawalla",
     "publication": "revisions requested from *Journal of Public Economics*",

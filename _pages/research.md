@@ -10,7 +10,7 @@ layout: splash
 
 <div class="card">
 
-  {% assign datasets = "publications, publications-working, publications-chapters, publications-other" | split: ", " %}
+  {% assign datasets = "publications-working, publications, publications-chapters, publications-other" | split: ", " %}
   
   {% for ds in datasets %}
   
@@ -73,8 +73,6 @@ layout: splash
     <h2>Works in progress</h2>
   </div>
   <div class="card-body">
-
-   "The Long-run Effect of Air Pollution on Survival" (with Tatyana Deryugina)<br><br>
    
    "Habit Persistence in Health Behaviors: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>
    
