@@ -17,7 +17,7 @@ title: Julian Reif
 email: jreif@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   
-twitter_username: julianreif
+#twitter_username: julianreif
 github_username: reifjulian
 minimal_mistakes_skin: contrast # dirt # air # default
 search: false
@@ -69,9 +69,12 @@ author:
     - label: "Google Scholar"
       icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Tpe9XEcAAAAJ"      
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JulianReif"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/julianreif.bsky.social"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/JulianReif"
 
 footer:
   links:
