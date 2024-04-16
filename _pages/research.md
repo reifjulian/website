@@ -74,7 +74,7 @@ layout: splash
   </div>
   <div class="card-body">
    
-   "Habit Formation in Health Behaviors: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>
+   "Habit Formation in Health Behaviors: Evidence from the Illinois Workplace Wellness Study" (with Alden Cheng, Damon Jones, and David Molitor)<br><br>
    
    "Peer Effects in the Workplace: Evidence from the Illinois Workplace Wellness Study" (with Damon Jones and David Molitor)<br><br>   
    
