@@ -1,18 +1,10 @@
 [
-  {
-    "title": "Incentives and Habit Formation in Health Screenings: Evidence from the Illinois Workplace Wellness Study",
-	"coauthors": "Damon Jones and David Molitor",
-    "publication": "",
-	"other": [
-	  "[Manuscript](../research/reif.wp.habitformation.pdf)"
-	],	
-	"abstract": "We study habit formation in annual biometric health screenings using a field experiment that randomly assigned financial incentives to 4,799 employees over three years. Completing the first screening raised subsequent screenings by 32.4-36.0 percentage points (84%-90%) annually. Habit formation was similar whether employees were offered screenings as part of a comprehensive wellness program or just screenings alone, suggesting such habits can develop without frequent interactions. We rule out inattention as an explanation, using a subsample assigned more salient incentives. The long-run effect stems from the initial decision to participate, indicating a habit formation process with a one-shot mechanism."
-  },
+
 
   {
     "title": "The Long-run Effect of Air Pollution on Survival",
 	"coauthors": "Tatyana Deryugina",
-    "publication": "",
+    "publication": "revisions requested from *American Economic Review*",
 	"media": [
 	  "[NBER Digest](https://www.nber.org/sites/default/files/2024-01/feb24.pdf#page=6)",
 	],	
@@ -42,5 +34,15 @@
 	  "[Manuscript](../research/reif.wp.accesstocredit.pdf)"
 	],	
 	"abstract": "We analyze the value of insurance when individuals have access to credit markets. Loans allow consumers to smooth financial shocks over time, decreasing the value of consumption smoothing from insurance. We derive formulas for the value of insurance that can be taken to data, and show how that value depends on individual characteristics and features of loans. We estimate that access to a five-year loan decreases the values of community- and experience-rated insurance for the average beneficiary by $232-$366 (58-61%). Even for the sickest decile, this loan access reduces the value of community-rated insurance by $1,099 (17%)."
-  }  
+  },
+  
+  {
+    "title": "Incentives and Habit Formation in Health Screenings: Evidence from the Illinois Workplace Wellness Study",
+	"coauthors": "Damon Jones and David Molitor",
+    "publication": "",
+	"other": [
+	  "[Manuscript](../research/reif.wp.habitformation.pdf)"
+	],	
+	"abstract": "We study habit formation in annual biometric health screenings using a field experiment that randomly assigned financial incentives to 4,799 employees over three years. Completing the first screening raised subsequent screenings by 32.4-36.0 percentage points (84%-90%) annually. Habit formation was similar whether employees were offered screenings as part of a comprehensive wellness program or just screenings alone, suggesting such habits can develop without frequent interactions. We rule out inattention as an explanation, using a subsample assigned more salient incentives. The long-run effect stems from the initial decision to participate, indicating a habit formation process with a one-shot mechanism."
+  },  
 ]

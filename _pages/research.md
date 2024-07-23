@@ -74,6 +74,8 @@ layout: splash
   </div>
   <div class="card-body">
    
+   "The Direct and Indirect Effects of Information Deletion:  Evidence from Medical Collections" (with Victor Duarte, Julia Fonseca, and Divij Kohli)<br><br>   
+   
    "Peer Effects in the Workplace: Evidence from the Illinois Workplace Wellness Study" (with Alden Cheng, Damon Jones and David Molitor)<br><br>   
 
    "Does Medicare Improve Quality of Life?"<br>
